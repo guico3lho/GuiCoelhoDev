@@ -1,5 +1,5 @@
 <img src="https://www.goodcore.co.uk/blog/wp-content/webp-express/webp-images/uploads/2019/08/coding-vs-programming-2.jpg.webp">
-<h1> Hi! My name is Guilherme, but you can call me Gui </h1>
+<h1> Hi! My name is Guilherme, but you can call me Gui. </h1>
 
 <div>
   <a href="https://github.com/GuiCoelhoDev">
@@ -10,6 +10,9 @@
  <br>
 <div  align="center"> 
   <div style="display: inline_block"><br>
+    
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
