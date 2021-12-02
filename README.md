@@ -1,5 +1,5 @@
 <img src="https://www.goodcore.co.uk/blog/wp-content/webp-express/webp-images/uploads/2019/08/coding-vs-programming-2.jpg.webp">
-<h1> Hi! My name is Guilherme, but you can call me Gui. </h1>
+<h1> Hi! Here you can find my best works so far as a software developer. </h1>
 
 <div>
   <a href="https://github.com/GuiCoelhoDev">
